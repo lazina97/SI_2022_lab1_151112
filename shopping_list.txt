@@ -2,4 +2,4 @@
 2. leb x8
 3. kafe x2
 4. lubenica x1
-5. jagodi x10
+5. jagodi x12
