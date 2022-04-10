@@ -1,5 +1,11 @@
 1. banana x3
 2. leb x3
 3. kafe x2
+<<<<<<< HEAD
 4. lubenica x1
 5. jagodi x12
+=======
+4. kromid x1
+5. jagodi x12
+6. luk x2
+>>>>>>> branch2
